@@ -548,6 +548,11 @@ url-prefix("https://companies.intra.42.fr") {
 		fill: #fff !important;
 	}
 	
+	
+	.fc-time-grid-container {
+	    height: auto !important;
+	}
+	
 	.tab-content {
 	    display: flex;
 	    flex-direction: column;
