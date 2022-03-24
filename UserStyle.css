@@ -547,4 +547,25 @@ url-prefix("https://companies.intra.42.fr") {
 		color: #fff !important;
 		fill: #fff !important;
 	}
+	
+	.tab-content {
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	#cluster-90 {
+	    order: 2;
+	}
+	#cluster-91 {
+	    order: 1;
+	    display: block;
+
+	}
+	#cluster-91 svg {
+	    margin-bottom: -100px;
+	}
+
+	.shop-list {
+	    display: none;
+	}
 }
