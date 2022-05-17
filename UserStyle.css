@@ -101,7 +101,8 @@ url-prefix("https://companies.intra.42.fr") {
 	.btn.btn-danger.checkbox-label.light-bg,
 	.btn.btn-danger.negative,
 	.feedback-comment-body,
-	#project-show .project-notifications .project-item.reminder {
+	#project-show .project-notifications .project-item.reminder,
+	.log-item{
 		color: #fff;
 	}
 
