@@ -561,7 +561,7 @@ url-prefix("https://companies.intra.42.fr") {
 	    flex-direction: column;
 	}
 
-	#cluster-90 {
+	/*#cluster-90 {
 	    order: 2;
 	}
 	#cluster-91 {
@@ -571,7 +571,7 @@ url-prefix("https://companies.intra.42.fr") {
 	}
 	#cluster-91 svg {
 	    margin-bottom: -100px;
-	}
+	}*/
 
 	.shop-list {
 	    display: none;
